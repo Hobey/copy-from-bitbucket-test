@@ -3,6 +3,6 @@
 
 void
 foo () {
-    printf("foo!!!");
+    printf("foo!!!\n");
 }
 
