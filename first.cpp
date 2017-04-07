@@ -9,6 +9,8 @@ struct vector2 {
     float y;        
 };
 
+// test test
+
 static void
 print(vector2 v) {
     printf("x %f, y %f\n", v.x, v.y);
