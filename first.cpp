@@ -4,10 +4,13 @@
 
 int main (int argc, char** argv) {
 
-    int foo = 3;
-    
     printf("Hello, world!\n");
-    printf("foo = %d\n", foo);
+
+    for (int foo = 3; foo < 8; foo++) {
+        printf("foo = %d\n", foo);
+    }
+
+    printf("Done\n");
     
     return 0;
 }
