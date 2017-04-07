@@ -11,6 +11,8 @@ struct vector2 {
 
 // T35T_T35T
 
+// MEGA TEST
+
 static void
 print(vector2 v) {
     printf("x %f, y %f\n", v.x, v.y);
