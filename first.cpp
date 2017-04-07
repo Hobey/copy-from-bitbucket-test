@@ -9,7 +9,7 @@ struct vector2 {
     float y;        
 };
 
-// test test
+// T35T_T35T
 
 static void
 print(vector2 v) {
