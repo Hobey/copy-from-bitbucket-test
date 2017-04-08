@@ -10,6 +10,8 @@ more bla bla...
 ```
 #!c++
 
+#include <windows.h>
+
 int main (int argc, char** argv) {
     prinf("Hello world!");
 }
