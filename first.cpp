@@ -8,6 +8,12 @@ struct vector2 {
     float y;        
 };
 
+// foobar
+static float
+foobar (int a) {
+    return 0.1;
+}
+
 static void
 print(vector2 v) {
     printf("x %f, y %f\n", v.x, v.y);
