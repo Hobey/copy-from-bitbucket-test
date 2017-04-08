@@ -14,6 +14,6 @@ more bla bla...
 #include <stdio.h>
 
 int main (int argc, char** argv) {
-    prinf("Hello world!");
+    printf("Hello world!");
 }
 ```
