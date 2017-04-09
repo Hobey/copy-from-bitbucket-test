@@ -23,7 +23,8 @@ int main (int argc, char** argv) {
     
     printf("Hello, world!\n");
     printf("version 3\n");
-
+    printf("some other stuff happens");
+    
     for (int bar = 5; bar < 11; bar++) {
         printf("bar = %d\n", bar);
     }
