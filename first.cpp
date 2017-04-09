@@ -22,7 +22,7 @@ print(vector2 v) {
 int main (int argc, char** argv) {
     
     printf("Hello, world!\n");
-    printf("version 1\n");
+    printf("version 2\n");
 
     for (int bar = 5; bar < 11; bar++) {
         printf("bar = %d\n", bar);
